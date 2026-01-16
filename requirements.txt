@@ -1,0 +1,4 @@
+# After installing dependencies, generate this file with:
+# pip freeze > requirements.txt
+matplotlib
+pandas
