@@ -5,7 +5,7 @@ Starter template for an in-class onboarding lab: download a public CSV dataset f
 ## Dataset chosen
 Pick exactly one dataset URL, then set it in `analyze.py` (CONFIG section).
 
-Option E: MPG (Car Fuel Economy)  
+Chosen Dataset: MPG (Car Fuel Economy)  
 https://raw.githubusercontent.com/mwaskom/seaborn-data/master/mpg.csv  
 Recommended columns: `origin` (category), `mpg` (numeric)
 
@@ -27,13 +27,14 @@ python analyze.py
 
 ## Reflection (write 3–5 sentences)
 Replace this section with your own reflection:
-The Git commits enabled me to understand the role of Git in connecting local files to a remote repository. This is especially important because it allows us, the users, to save changes conveniently and also enables other users to contribute ideas, track progress, and collaborate efficiently. Moreover, the process of staging and permanently saving changes in a repository is a process that data science students like us should learn, as it paves the way for us to relay pertinent and organized messages through a programming language like Python.
+The hardest part of this project was setting up the files correctly for upload to Git using the terminal. Being relatively new to the Git environment, we were initially unaware that files needed to be explicitly added and committed before they could be uploaded to GitHub. Additionally, steps involving the .gitignore and README.md files were particularly confusing at first because we did not fully understand their purpose in managing which files should be tracked and how a project should be documented. This made the early setup process slower and more challenging than expected. However, working through these steps helped us better understand how a project is properly structured in Git.
+
+Through this project, we learned how Git commits are useful for uploading files to GitHub in an organized and controlled way. We also learned that files must first be staged in the terminal before they can be committed, which was something I was previously unaware of. Additionally, we realized the importance of making small, focused commits rather than committing everything at once. Writing clear and meaningful commit messages helped us better track changes throughout the project. On the whole, this process improved our understanding of version control and reduced confusion when managing files.
 
 ## Generative AI Disclosure (if applicable)
 - Tool used: None
 - What it was used for:
-  - ...
-  - ...
+  - To verify steps into committing to adding/committing/pushing to git.
+  - To verify concepts and terminologies used in the project.
 - What I personally verified/changed:
-  - ...
-  - ...
+  - Using the concepts and terminologies, AI helped us in making our reflection more cohesive and correct.
