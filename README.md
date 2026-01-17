@@ -5,22 +5,6 @@ Starter template for an in-class onboarding lab: download a public CSV dataset f
 ## Dataset chosen
 Pick exactly one dataset URL, then set it in `analyze.py` (CONFIG section).
 
-Option A: Penguins  
-https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv  
-Recommended columns: `species` (category), `bill_length_mm` (numeric)
-
-Option B: Tips  
-https://raw.githubusercontent.com/mwaskom/seaborn-data/master/tips.csv  
-Recommended columns: `day` (category), `tip` (numeric)
-
-Option C: Titanic  
-https://raw.githubusercontent.com/mwaskom/seaborn-data/master/titanic.csv  
-Recommended columns: `class` (category), `fare` (numeric)
-
-Option D: Flights  
-https://raw.githubusercontent.com/mwaskom/seaborn-data/master/flights.csv  
-Recommended columns: `month` (category), `passengers` (numeric)
-
 Option E: MPG (Car Fuel Economy)  
 https://raw.githubusercontent.com/mwaskom/seaborn-data/master/mpg.csv  
 Recommended columns: `origin` (category), `mpg` (numeric)
