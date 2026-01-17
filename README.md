@@ -29,6 +29,10 @@ python analyze.py
 Replace this section with your own reflection:
 The Git commits enabled me to understand the role of Git in connecting local files to a remote repository. This is especially important because it allows us, the users, to save changes conveniently and also enables other users to contribute ideas, track progress, and collaborate efficiently. Moreover, the process of staging and permanently saving changes in a repository is a process that data science students like us should learn, as it paves the way for us to relay pertinent and organized messages through a programming language like Python.
 
+Conda:
+- The hardest part about this project was setting up the file for upload to git. Being relatively new to the git environment, I was unaware that you are able to "add/commit" files to git. Notably, steps 2 and 3 of the project was the most confusing part because I am not exactly familiar with the purpose of the .gitignore and README.md files.
+- I learned about Git commits and how they are useful for uploading files to GitHub in an organized way. Aside from this, I also learned that files must first be staged in the terminal before they can be committed, which I was previously unaware of. Lastly, I learned that making small commits with clear messages helps track changes more clearly and avoid confusion.
+
 ## Generative AI Disclosure (if applicable)
 - Tool used: None
 - What it was used for:
